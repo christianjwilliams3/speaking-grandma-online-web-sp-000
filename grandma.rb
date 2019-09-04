@@ -15,10 +15,10 @@
 def speak_to_grandma(statement)
   if statement == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif statement == 
+  elsif statement == statement
     return "NO, NOT SINCE 1938!"
       puts "NO, NOT SINCE 1938!"
-  else 
+  else statement == statement return
     return "HUH?! SPEAK UP, SONNY!"
       puts "HUH?! SPEAK UP, SONNY!"
   end
