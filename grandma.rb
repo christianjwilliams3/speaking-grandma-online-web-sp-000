@@ -15,7 +15,7 @@
 def speak_to_grandma(statement)
   if statement == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif statement == statement.uppercase
+  elsif statement == statement
     return "HUH?! SPEAK UP, SONNY!"
        puts "HUH?! SPEAK UP, SONNY!"
   else
