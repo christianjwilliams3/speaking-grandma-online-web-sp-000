@@ -18,4 +18,6 @@ def speak_to_grandma(statement)
   elsif statement == statement.upercase
     return "NO, NOT SINCE 1938!"
   else
-    return 
+    return "HUH?! SPEAK UP, SONNY!"
+  end
+end  
