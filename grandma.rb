@@ -13,7 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(statement)
-  if "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!" 
-end
+  if  statement.upcase
+   "NO, NOT SINCE 1938"
+  else
+    statement
+  end
 end
