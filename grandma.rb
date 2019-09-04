@@ -20,5 +20,6 @@ def speak_to_grandma(statement)
     return "HUH?! SPEAK UP, SONNY!"
   else
     return "NO, NOT SINCE 1938!"
+    eturn "NO, NOT SINCE 1938!"
   end
 end
