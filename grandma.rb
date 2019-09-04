@@ -18,7 +18,7 @@ def speak_to_grandma(statement)
   elsif statement == statement
     return "HUH?! SPEAK UP, SONNY!"
        puts "HUH?! SPEAK UP, SONNY!"
-  else statement == string
+  else
     return "NO, NOT SINCE 1938!"
       puts "NO, NOT SINCE 1938!"
   end
