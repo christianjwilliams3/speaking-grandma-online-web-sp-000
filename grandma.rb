@@ -14,7 +14,7 @@
 
 def speak_to_grandma(statement)
   if  statement.upcase
-   "NO, NOT SINCE 1938"
+   "NO, NOT SINCE 1938!"
   else
     statement
   end
